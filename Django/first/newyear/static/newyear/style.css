@@ -1,0 +1,12 @@
+body {
+    background-color: gold;
+}
+
+h1{
+    color :navy;
+    text-align : center ;
+    padding : 200px;
+    margin : 16px;
+    font-size : 100px;
+    font-family :'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
